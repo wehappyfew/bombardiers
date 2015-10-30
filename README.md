@@ -1,4 +1,4 @@
 # bombardiers
 This repo contains the bombs :]
 
-dhdfhfhdfh
+This is a sample repo for the bombardier service :]
