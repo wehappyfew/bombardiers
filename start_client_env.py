@@ -1,5 +1,4 @@
 __author__ = 'wehappyfew'
-
 import subprocess,time
 from jenkins_job import create_jenkins_xml_config, post_new_xml_config
 
