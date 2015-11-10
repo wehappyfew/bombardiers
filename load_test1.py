@@ -2,7 +2,7 @@ __author__ = 'wehappyfew'
 import time
 from locust import HttpLocust, TaskSet, task
 
-#  comment1
+#  comment2
 class UserBehavior(TaskSet):
 
 	def on_start(self):
